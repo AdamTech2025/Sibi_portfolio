@@ -172,21 +172,7 @@ const Ventures = () => {
           </div>
 
           {/* Call to Action */}
-          <div className="text-center mt-16 sm:mt-20">
-            <h3 className="text-xl sm:text-2xl font-bold text-gray-900 mb-4">
-              Waana speak with me?
-            </h3>
-            {/* <p className="text-base sm:text-lg text-gray-600 mb-6 max-w-2xl mx-auto">
-              I'm always open to discussing new opportunities, partnerships, and innovative ideas.
-            </p> */}
-            <a 
-              href="https://calendly.com/sibinarendran/new-meeting" 
-              className="inline-flex items-center bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-colors"
-            >
-              <i className="fas fa-calendar-alt mr-2"></i>
-              Schedule a Meeting
-            </a>
-          </div>
+ 
 
         </div>
       </section>
