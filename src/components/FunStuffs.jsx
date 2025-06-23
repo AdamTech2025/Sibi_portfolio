@@ -113,20 +113,8 @@ const FunStuffs = () => {
                   <i className="fas fa-book text-blue-600 text-2xl mr-3"></i>
                   <i className="fas fa-pen-fancy text-purple-600 text-2xl"></i>
                 </div>
-                <p className="text-base sm:text-lg text-gray-600 leading-relaxed max-w-2xl mx-auto mb-8">
-                  I love reading books, especially entrepreneur biographies and business strategy books. 
-                  Writing poems is my creative outlet - it helps me process emotions and experiences.
-                </p>
-                
-                {/* Business Analysis */}
-                <div className="flex items-center justify-center mb-4">
-                  <i className="fas fa-chart-line text-green-600 text-2xl mr-3"></i>
-                  <i className="fas fa-lightbulb text-yellow-500 text-2xl"></i>
-                </div>
                 <p className="text-base sm:text-lg text-gray-600 leading-relaxed max-w-2xl mx-auto">
-                  My mind is constantly analyzing how things work, especially business. I can't help 
-                  but think about revenue models, customer strategies, and what makes companies successful. 
-                  This curiosity drives my entrepreneurial approach and helps me spot opportunities.
+                  I love reading books, I write poems, and I think about how things work all the time, especially business.
                 </p>
               </div>
             </div>

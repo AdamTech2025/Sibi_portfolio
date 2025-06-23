@@ -1,6 +1,5 @@
 import React from 'react';
-import parliamentImage1 from '../assets/image_1.jpeg';
-import parliamentImage2 from '../assets/Image_2.jpeg';
+import homelaneCEOImage from '../assets/homelane_CEO.jpeg';
 import gtsLogo from '../assets/GTS_logo.jpeg';
 import gts1 from '../assets/GTS_1.jpg';
 import gts2 from '../assets/GTS_2.jpg';
@@ -19,30 +18,22 @@ const InterestingEventsPartTwo = () => {
   return (
     <div className="min-h-screen bg-gray-50">
       {/* Parliament Member Event */}
-      <section id="parliament-event" className="py-12 sm:py-16 lg:py-20 bg-gray-50">
+
+
+      <section id="homelane-event" className="py-12 sm:py-16 lg:py-20 bg-white">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-4xl mx-auto">
             <h3 className="text-xl sm:text-2xl text-center mb-4 sm:mb-6 text-gray-600">
-              Became friends with a member of parliament and told him AI will outperform him in writing literature
+              I met the Founder and CEO of Indians largest home interior company when I was building my own
             </h3>
             
-            {/* Event Images - Side by Side */}
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 sm:gap-12 mb-8">
-              <div className="text-center">
-                <img 
-                  src={parliamentImage1} 
-                  alt="Meeting with Parliament Member - Image 1" 
-                  className="w-full object-cover rounded-lg shadow-lg mb-3"
-                />
-              </div>
-              
-              <div className="text-center">
-                <img 
-                  src={parliamentImage2} 
-                  alt="Meeting with Parliament Member - Image 2" 
-                  className="w-full object-cover rounded-lg shadow-lg mb-3"
-                />
-              </div>
+            {/* Event Image */}
+            <div className="text-center mb-8">
+              <img 
+                src={homelaneCEOImage} 
+                alt="Meeting with Homelane CEO" 
+                className="w-full max-w-lg mx-auto object-cover rounded-lg shadow-lg mb-3"
+              />
             </div>
             
             {/* Content */}
