@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: auto;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+  overflow-x: hidden;
+  line-height: 1.6;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1a1a2e;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(to bottom, #4f46e5, #7c3aed);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(to bottom, #6366f1, #8b5cf6);
+}
+
+/* Basic transitions for interactive elements only */
+button, a {
+  transition: color 0.2s ease, background-color 0.2s ease;
+}
+
+/* Focus styles for accessibility - removed for social media icons */
+a:focus,
+button:focus {
+  outline: none;
+}
+
+/* Custom button styles */
+button {
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
+
+/* Gradient text utility */
+.gradient-text {
+  background: linear-gradient(135deg, #60a5fa, #a855f7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Removed animations for professional look */
+
+/* @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"); */
+
+/* html, body {
+  overflow-x: hidden;
+} */
+
+html.dark {
+  background-color: #333;
+  color: white;
+}
+
+html.light {
+  background-color: #fff;
+  color: black;
+} 
+
+nav {
+  background-color: transparent;
+}
