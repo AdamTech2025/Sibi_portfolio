@@ -37,8 +37,8 @@ const FunStuffs = () => {
               <div>
                 <p className="text-base sm:text-lg text-gray-600 leading-relaxed">
                   What started as a casual conversation with friends turned into a bold bet. 
-                  They didn't think I'd actually do it - swim in freezing water at 3 AM. 
-                  But I never back down from a challenge, especially one worth $500.
+                  They didn't think I'd actually do it swim in freezing water at 3 AM. 
+                  But I never back down from a challenge not for money, just for fun.
                 </p>
               </div>
             </div>
@@ -46,7 +46,7 @@ const FunStuffs = () => {
             {/* Musical Hobbies Section */}
             <div className="mt-16 sm:mt-20">
               <h3 className="text-xl sm:text-2xl text-center mb-8 sm:mb-12 text-gray-600">
-                Amateur guitar player and singer - learned from YouTube
+                Amateur guitar player and singer, learned from YouTube
               </h3>
               
               {/* Music Videos Grid */}
@@ -114,7 +114,7 @@ const FunStuffs = () => {
                   <i className="fas fa-pen-fancy text-purple-600 text-2xl"></i>
                 </div>
                 <p className="text-base sm:text-lg text-gray-600 leading-relaxed max-w-2xl mx-auto">
-                  I love reading books, I write poems, and I think about how things work all the time, especially business.
+                  I love reading books, I write poems, and I think about how things work all the time, especially businesses.
                 </p>
               </div>
             </div>

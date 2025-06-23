@@ -67,8 +67,8 @@ const Ventures = () => {
                   <i className="fas fa-info-circle text-blue-600 mr-2"></i>
                   About
                 </h4>
-                <div className="text-sm text-gray-600">
-                  <p>Started my entrepreneurial journey in the timber business at just 16 years old. Focused on digital marketing and sales strategies to grow the business. Learning the fundamentals of business operations and customer relationships. Building sustainable timber solutions while developing my business acumen.</p>
+                <div className="text-sm text-gray-600 text-justify">
+                  <p>When I was 16, I took over digital marketing for my father's company, Suresh Timbers. At the time, sales were around $10,000/month. I made a bold bet, scaled the ad budget and launched multiple high-production video shoots. But for the first three months, nothing worked. Zero sales. Everyone turned against me, my own team, my father, even the company wanted to pull the plug. The pressure was intense. I was still a teenager, carrying the weight of the business on my shoulders. But I didn't quit. I doubled down, waited, and finally got results the following month. That early failure, rejection, and eventual comeback built something deeper in me, resilience under pressure.</p>
                 </div>
               </div>
             </div>
@@ -115,8 +115,8 @@ const Ventures = () => {
                   <i className="fas fa-info-circle text-orange-600 mr-2"></i>
                   About
                 </h4>
-                <div className="text-sm text-gray-600">
-                  <p>Founded Interio Square at 18 to revolutionize interior design solutions. Combining creativity with business acumen to deliver exceptional design experiences. Building a brand that transforms spaces while establishing strong client relationships. Focused on innovative design approaches and sustainable business growth in the interior design industry.</p>
+                <div className="text-sm text-gray-600 text-justify">
+                  <p>Interio Square was my second and hardest venture. I started it with confidence, but quickly realized it was far tougher than I imagined. I had to handle both sales and production without proper systems, no software, no showroom, and not even machinery, we outsourced almost everything. It was mistake after mistake. I was trying to bootstrap it from scratch and got punched in the gut over and over again. Originally, it was just supposed to be a summer trial before I left to study in France. But I couldn't walk away, I didn't have the heart to shut it down. So I dropped out. After months of relentless grind, the business finally turned a corner. We became profitable, and today, Interio Square is doing $2M ARR. It now funds my next company, an AI venture tackling U.S. healthcare billing.</p>
                 </div>
               </div>
             </div>
@@ -134,7 +134,7 @@ const Ventures = () => {
                   <div className="space-y-2">
                     <div className="flex items-center">
                       <i className="fas fa-calendar text-gray-500 mr-2"></i>
-                      <span className="text-gray-600">Founded: 2024</span>
+                      <span className="text-gray-600">Founded: 2024 (at age 19)</span>
                     </div>
                     <div className="flex items-center">
                       <i className="fas fa-brain text-gray-500 mr-2"></i>
@@ -163,8 +163,8 @@ const Ventures = () => {
                   <i className="fas fa-info-circle text-purple-600 mr-2"></i>
                   About
                 </h4>
-                <div className="text-sm text-gray-600">
-                  <p>Founded Adam Labs in 2024 to push the boundaries of artificial intelligence technology. Developing cutting-edge AI solutions that solve real-world problems and create meaningful impact. Building innovative products that harness the power of machine learning and automation. Focused on creating scalable AI technologies that transform industries and improve lives.</p>
+                <div className="text-sm text-gray-600 text-justify">
+                  <p>Adam Tech is my most recent and most ambitious venture. Unlike my past companies, I haven't been punched in the face by this one yet, but I know it's coming. This time, I'm going after something 100x bigger automating medical billing in the U.S. healthcare market. Before starting Adam Tech, I booked an Airbnb in Bangalore, locked myself in, and taught myself AI and coding. After a month, I wasn't a genius, but I had enough confidence to start building. Since then, we've already pivoted once under the same company name. But I believe this will be the biggest company I've ever built. Let's see where it takes me.</p>
                 </div>
               </div>
             </div>

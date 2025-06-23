@@ -37,7 +37,7 @@ const CollegeDropoutSection = () => {
             {/* Content */}
             <div className="text-center">
               <p className="text-base sm:text-lg text-gray-600 leading-relaxed max-w-2xl mx-auto">
-              I did my BBA at Loyola and IESEG in France. Out of 43 students, 18 went to France, while the others either repeated a year or dropped out. I was one of the 18 who went, but I was the only one who dropped out during the first semester to return to India and scale my business.
+              I did my BBA at Loyola and IESEG in France. Out of 43 students, 18 went to France, while the others either had to repeat a year or dropped out. I was one of the 18 who went, but I was the only one who dropped out during the first semester to return to India and scale my business.
               </p>
             </div>
           </div>

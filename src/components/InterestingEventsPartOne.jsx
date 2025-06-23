@@ -29,8 +29,10 @@ const InterestingEventsPartOne = () => {
             
             {/* Content */}
             <div className="text-center">
-              <p className="text-base sm:text-lg text-gray-600 leading-relaxed max-w-2xl mx-auto">
-                Add your content here...
+              <p className="text-base sm:text-lg text-gray-600 leading-relaxed max-w-6xl mx-auto">
+              After ChatGPT, I wanted to build an AI company, so I began familiarizing myself with the technology. At the same time, I was eager to meet someone who had successfully built and scaled a tech business. That’s when I learned about Mr. Sridhar Vembu a Padma Shri awardee and the billionaire CEO of Zoho. I cold-emailed him, introducing myself and explaining my ambition to build a company and my desire to speak with him. To my surprise, he replied within an hour, inviting me to meet him. I went to his house, and we spoke for over two hours about AI, technology moats, and his origin story. I believe we both left with a lasting impact on each other.
+
+
               </p>
             </div>
           </div>
@@ -66,8 +68,8 @@ const InterestingEventsPartOne = () => {
             
             {/* Content */}
             <div className="text-center">
-              <p className="text-base sm:text-lg text-gray-600 leading-relaxed max-w-2xl mx-auto">
-                Add your content here...
+              <p className="text-base sm:text-lg text-gray-600 leading-relaxed max-w-6xl mx-auto">
+              This is Mr. Su Venkatesan, a Member of Parliament from my constituency. I happened to meet him randomly on a flight to Bangalore. He is also a famous author of the book Vel Pari, a well known work of literature. We spoke throughout the entire flight, and he even walked with me all the way to my cab. I spoke to him about AI and jokingly told him that AI would soon write better literature than he does. I helped him download ChatGPT on his phone, and we experimented by writing multiple poems. We had a deep conversation about Tamil literature and politics his favorite topics. We became friends and still keep in touch.
               </p>
             </div>
           </div>

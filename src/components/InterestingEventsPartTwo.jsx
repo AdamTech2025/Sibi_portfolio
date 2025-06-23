@@ -24,7 +24,7 @@ const InterestingEventsPartTwo = () => {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-4xl mx-auto">
             <h3 className="text-xl sm:text-2xl text-center mb-4 sm:mb-6 text-gray-600">
-              I met the Founder and CEO of Indians largest home interior company when I was building my own
+              I met the Founder and CEO of India's largest home interior company when I was building my own
             </h3>
             
             {/* Event Image */}
@@ -38,8 +38,8 @@ const InterestingEventsPartTwo = () => {
             
             {/* Content */}
             <div className="text-center">
-              <p className="text-base sm:text-lg text-gray-600 leading-relaxed max-w-2xl mx-auto">
-                Add your content here...
+              <p className="text-base sm:text-lg text-gray-600 leading-relaxed max-w-2xl mx-auto text-justify">
+                I once met the CEO of HomeLane, one of India's largest home interior companies, by accident in Bangalore while I was building Interio Square. We didn't have any meaningful conversation at the time, but we exchanged a couple of emails.
               </p>
             </div>
           </div>
@@ -91,9 +91,8 @@ const InterestingEventsPartTwo = () => {
 
                 {/* Content */}
                 <div className="text-center">
-                  <p className="text-base sm:text-lg text-gray-600 leading-relaxed max-w-2xl mx-auto">
-                    I cold called the founder of GTS and successfully secured a project task. 
-                    This direct approach opened doors to working with an innovative AI technology company.
+                  <p className="text-base sm:text-lg text-gray-600 leading-relaxed max-w-2xl mx-auto text-justify">
+                    Before ChatGPT went mainstream, I was already curious about AI and wanted to get involved somehow. So I started cold calling AI startup founders. One of them at GTS AI gave me a small data collection job. I completed it successfully with the help of my friends, hoping it would lead to something bigger or at least help me learn. It didn't lead anywhere in the end but anyway I made a bit of money.
                   </p>
                 </div>
               </div>
@@ -130,8 +129,8 @@ const InterestingEventsPartTwo = () => {
             
             {/* Content */}
             <div className="text-center">
-              <p className="text-base sm:text-lg text-gray-600 leading-relaxed max-w-2xl mx-auto">
-                Met the MD of Diasor Rajesh Mani in during a flight and had an interesting conversation. 
+              <p className="text-base sm:text-lg text-gray-600 leading-relaxed max-w-2xl mx-auto text-justify">
+                I once met the Managing Director of DiaSorin India on a flight. We ended up talking the entire journey, mostly about the wood business. I shared my thoughts on quitting college and told him about my father's furniture company. A week or two later, he called me out of the blue and said, "Send me some furniture $3,000 worth for my home." No meetings, just a phone call. That moment meant a lot to me. At just 17, I was able to earn someone's trust just through a one-hour flight conversation. It gave me real confidence that I could sell and build relationships.
               </p>
             </div>
           </div>
